@@ -431,7 +431,9 @@ footer {
     margin-right: 25px;
 }
 
-
+.testing-b {
+    display: none;
+}
 @media screen and (max-width: 700px) {
     .container{
         display: none;
